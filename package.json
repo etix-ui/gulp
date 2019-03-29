@@ -15,5 +15,13 @@
   "bugs": {
     "url": "https://github.com/etix-ui/gulp/issues"
   },
-  "homepage": "https://github.com/etix-ui/gulp#readme"
+  "homepage": "https://github.com/etix-ui/gulp#readme",
+  "devDependencies": {
+    "gulp": "~3.9.1",
+    "gulp-load-plugins": "~1.5.0",
+    "gulp-less": "~3.3.0",
+    "gulp-sourcemaps": "~2.4.1",
+    "gulp-concat": "~2.6.1",
+    "gulp-uglify": "~2.0.1"
+  }
 }
