@@ -1,0 +1,19 @@
+{
+  "name": "gulp-tutorial",
+  "version": "1.0.0",
+  "description": "Gulp tutorial",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/etix-ui/gulp.git"
+  },
+  "author": "Jason Moore",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/etix-ui/gulp/issues"
+  },
+  "homepage": "https://github.com/etix-ui/gulp#readme"
+}
